@@ -79,10 +79,4 @@ SCT_DS_4/
 
 ---
 
-## 🔗 LinkedIn Post
-
-> (Will be published after completing all 4 internship tasks.)
-
----
-
 📈 *Task completed as part of SkillCraft Technology's Data Science Internship Program.*
