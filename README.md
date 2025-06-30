@@ -62,3 +62,27 @@ Analyze traffic accident data to identify patterns related to:
 
 ## 📂 Project Structure
 
+SCT_DS_4/
+├── Task_4_Accident_Analysis.ipynb # Google Colab notebook
+├── Motor_Vehicle_Collisions.csv # Raw dataset (optional)
+└── README.md # This file
+
+
+
+---
+
+## 📌 Notes
+
+- Null values were handled by dropping rows with missing location and borough data.
+- Time of accidents was extracted from the `CRASH TIME` column for temporal analysis.
+- The analysis is scalable and could be extended to include weather, contributing factors, or vehicle types.
+
+---
+
+## 🔗 LinkedIn Post
+
+> (Will be published after completing all 4 internship tasks.)
+
+---
+
+📈 *Task completed as part of SkillCraft Technology's Data Science Internship Program.*
